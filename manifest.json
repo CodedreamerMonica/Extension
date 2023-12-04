@@ -4,6 +4,12 @@
     "version": "1.0",
     "description": "Detecting fake URLs",
     "action" : {
-        "default_popup":"popup.html"
+        "default_popup":"popup.html",
+        "default_icon": {
+            "16": "Images/PhishHook-16.png",
+            "32": "Images/PhishHook-32.png",
+            "48": "Images/PhishHook-48.png",
+            "128": "Images/PhishHook-128.png"
+        }
     }
 }
