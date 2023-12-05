@@ -11,5 +11,6 @@
             "48": "Images/PhishHook-48.png",
             "128": "Images/PhishHook-128.png"
         }
-    }
+    },
+    "permissions": ["activeTab","scripting"]
 }
